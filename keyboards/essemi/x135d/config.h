@@ -1,6 +1,4 @@
-/* Copyright 2023 Finalkey
- * Copyright 2026 EPOMAKER (@Epomaker)
- * Copyright 2023 LiWenLiu <https://github.com/LiuLiuQMK>
+/* Copyright 2026 EPOMAKER (@Epomaker)
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
